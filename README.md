@@ -34,6 +34,11 @@
    <img align="center" alt="fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+   
+   <img align="center" alt="fe-markdown" height="32" width="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--n8_KcuiC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vyeh7jc5mcn1jec7ipi.png">
+ 
+ 
 </div>
   
  ##
