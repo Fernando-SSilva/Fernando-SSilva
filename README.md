@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/Fernando-SSilva">
-    <img height="128em" src="https://github-readme-stats.vercel.app/api?username=Fernando-SSilva&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-    <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-SSilva&layout=compact&langs_count=7&theme=maroongold"/>
+    <img height="128em" src="https://github-readme-stats.vercel.app/api?username=Fernando-SSilva&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+    <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-SSilva&layout=compact&langs_count=7&theme=great-gatsby"/>
     <img alt="fe-Astronalta" height="150" width="200" src="https://1.bp.blogspot.com/-O_DAOROMUlk/YKM5P9RuE8I/AAAAAAAABw0/JuqqK10g9NQd8oT-Tl0pT8f0rBZ9F0uAQCPcBGAYYCw/s320/giphy.gif"/>
     <div>
     <h6>👯 Por enquanto no meu &nbsp <img alt="GitHub" height="60" width="60" src="https://lh4.googleusercontent.com/proxy/o8tC-rYyCreH3x9qGladWSPPnGAniZBsRyRwcQ3N0lzp67DS4HdwEt2L6poAQJ0v3wu8j7O94brJohsAu3EpE1NSt3W5=s0-d"> &nbsp encontraram &nbsp
