@@ -35,7 +35,9 @@
      &nbsp
    <img align="center" alt="fe-Togaf" height="15" width="60" src="https://i1.wp.com/insights.thirdrepublic.com/wp-content/uploads/2018/09/togaf-enterprise-architecture.png?fit=827%2C179&amp;ssl=1">
 </div>
-
+  
+![Snake animation](https://github.com/Fernando-SSilva/Fernando-SSilva/blob/output/github-contribution-grid-snake.svg)
+  
  ##
 <div style="display: inline_block"><br>
   <h6>🤔 Fico curioso quando o assunto é...</h6> 
@@ -83,5 +85,5 @@
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
    
- ![Snake animation](https://github.com/Fernando-SSilva/Fernando-SSilva/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
