@@ -13,7 +13,9 @@
    <img align="center" alt="fe-markdown" height="32" width="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--n8_KcuiC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vyeh7jc5mcn1jec7ipi.png"> &nbsp aguardem...</h6>
     </div>
 </div>
- 
+  
+ ![Snake animation](https://github.com/Fernando-SSilva/Fernando-SSilva/blob/output/github-contribution-grid-snake.svg)
+  
  ## 
 <div style="display: inline_block"><br>
  <h6>🌱 Atualmente estou aprendendo, pesquisando, devorando ...</h6>
@@ -35,8 +37,6 @@
      &nbsp
    <img align="center" alt="fe-Togaf" height="15" width="60" src="https://i1.wp.com/insights.thirdrepublic.com/wp-content/uploads/2018/09/togaf-enterprise-architecture.png?fit=827%2C179&amp;ssl=1">
 </div>
-  
-![Snake animation](https://github.com/Fernando-SSilva/Fernando-SSilva/blob/output/github-contribution-grid-snake.svg)
   
  ##
 <div style="display: inline_block"><br>
