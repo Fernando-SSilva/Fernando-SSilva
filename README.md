@@ -5,6 +5,13 @@
     <img height="128em" src="https://github-readme-stats.vercel.app/api?username=Fernando-SSilva&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
     <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-SSilva&layout=compact&langs_count=7&theme=maroongold"/>
     <img alt="fe-Astronalta" height="150" width="200" src="https://1.bp.blogspot.com/-O_DAOROMUlk/YKM5P9RuE8I/AAAAAAAABw0/JuqqK10g9NQd8oT-Tl0pT8f0rBZ9F0uAQCPcBGAYYCw/s320/giphy.gif"/>
+    <div>
+    <h6>👯 Por enquanto no meu &nbsp <img alt="GitHub" height="60" width="60" src="https://lh4.googleusercontent.com/proxy/o8tC-rYyCreH3x9qGladWSPPnGAniZBsRyRwcQ3N0lzp67DS4HdwEt2L6poAQJ0v3wu8j7O94brJohsAu3EpE1NSt3W5=s0-d"> &nbsp encontraram &nbsp
+   <img align="center" alt="fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="fe-markdown" height="32" width="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--n8_KcuiC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vyeh7jc5mcn1jec7ipi.png"> &nbsp aguardem...</h6>
+    </div>
 </div>
  
  ## 
@@ -28,17 +35,7 @@
      &nbsp
    <img align="center" alt="fe-Togaf" height="15" width="60" src="https://i1.wp.com/insights.thirdrepublic.com/wp-content/uploads/2018/09/togaf-enterprise-architecture.png?fit=827%2C179&amp;ssl=1">
 </div>
- 
-  
- ##
-<div style="display: inline_block"><br>  
-  <h6>👯 Por enquanto no &nbsp <img alt="GitHub" height="60" width="60" src="https://lh4.googleusercontent.com/proxy/o8tC-rYyCreH3x9qGladWSPPnGAniZBsRyRwcQ3N0lzp67DS4HdwEt2L6poAQJ0v3wu8j7O94brJohsAu3EpE1NSt3W5=s0-d">... aguardem...</h6> 
-   <img align="center" alt="fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-   <img align="center" alt="fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="fe-markdown" height="32" width="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--n8_KcuiC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vyeh7jc5mcn1jec7ipi.png">
-</div>
-  
+
  ##
 <div style="display: inline_block"><br>
   <h6>🤔 Fico curioso quando o assunto é...</h6> 
