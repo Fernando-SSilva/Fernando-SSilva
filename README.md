@@ -30,7 +30,7 @@
   
  ##
 <div style="display: inline_block"><br>  
-  <h6>👯 Por enquanto temos no &nbsp <a href="https://github.com/Fernando-SSilva"</a> <img alt="GitHub" height="60" width="60" src="https://lh4.googleusercontent.com/proxy/o8tC-rYyCreH3x9qGladWSPPnGAniZBsRyRwcQ3N0lzp67DS4HdwEt2L6poAQJ0v3wu8j7O94brJohsAu3EpE1NSt3W5=s0-d">... aguardem...</h6> 
+  <h6>👯 Por enquanto temos no &nbsp <img alt="GitHub" height="60" width="60" src="https://lh4.googleusercontent.com/proxy/o8tC-rYyCreH3x9qGladWSPPnGAniZBsRyRwcQ3N0lzp67DS4HdwEt2L6poAQJ0v3wu8j7O94brJohsAu3EpE1NSt3W5=s0-d">... aguardem...</h6> 
    <img align="center" alt="fe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="fe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="fe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
