@@ -87,5 +87,4 @@
    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
    
  ![Snake animation](https://github.com/Fernando-SSilva/Fernando-SSilva/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
