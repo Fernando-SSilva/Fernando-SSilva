@@ -1,9 +1,10 @@
 ### Fala galera, sejam bem vindos ao meu GitHub 👋
 
- <div>
+<div>
   <a href="https://github.com/Fernando-SSilva">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fernando-SSilva&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-SSilva&layout=compact&langs_count=7&theme=maroongold"/>
+    <img height="125em" src="https://github-readme-stats.vercel.app/api?username=Fernando-SSilva&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-SSilva&layout=compact&langs_count=7&theme=maroongold"/>
+    <img alt="fe-Astronalta" height="150" width="200" src="https://1.bp.blogspot.com/-O_DAOROMUlk/YKM5P9RuE8I/AAAAAAAABw0/JuqqK10g9NQd8oT-Tl0pT8f0rBZ9F0uAQCPcBGAYYCw/s320/giphy.gif"/>
 </div>
  
  ## 
@@ -38,8 +39,6 @@
   
    
    <img align="center" alt="fe-markdown" height="32" width="35" src="https://res.cloudinary.com/practicaldev/image/fetch/s--n8_KcuiC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2vyeh7jc5mcn1jec7ipi.png">
- 
- 
 </div>
   
  ##
@@ -89,7 +88,5 @@
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
    <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
    
- 
-  ![Snake animation](https://github.com/Fernando-SSilva/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
