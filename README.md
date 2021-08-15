@@ -2,12 +2,12 @@
 
  <div>
   <a href="https://github.com/Fernando-SSilva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fernando-SSilva&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-SSilva&layout=compact&langs_count=7&theme=maroongold"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Fernando-SSilva&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-SSilva&layout=compact&langs_count=7&theme=maroongold"/>
 </div>
  
- ##
-<div style="display: inline_block"><br>  
+ ## 
+<div style="display: inline_block"><br>
  <h6>🌱 Atualmente estou aprendendo, pesquisando, devorando ...</h6>
    <img align="center" alt="fe-AWS" height="50" width="65" src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png">
      &nbsp
@@ -27,6 +27,7 @@
      &nbsp
    <img align="center" alt="fe-Togaf" height="25" width="75" src="https://i1.wp.com/insights.thirdrepublic.com/wp-content/uploads/2018/09/togaf-enterprise-architecture.png?fit=827%2C179&amp;ssl=1">
 </div>
+ 
   
  ##
 <div style="display: inline_block"><br>  
