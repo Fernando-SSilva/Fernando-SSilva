@@ -18,7 +18,7 @@
   
  ## 
 <div style="display: inline_block"><br>
- <h6>🌱 Atualmente estou aprendendo, pesquisando, devorando ...</h6>
+ <h6>🌱 Atualmente estou conhecendo, aprendendo, pesquisando, explorando, entendendo, descobrindo...</h6>
    <img align="center" alt="fe-AWS" height="50" width="65" src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png">
      &nbsp
    <img align="center" alt="fe-Azure" height="30" width="60" src="http://tahtec.com.br/wp-content/uploads/2019/07/windows-azure-logo-png-18.png">
