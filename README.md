@@ -33,7 +33,7 @@
      &nbsp
    <img align="center" alt="fe-DPO" height="28" width="28" src="https://secureservercdn.net/50.62.194.59/gm7.23f.myftpupload.com/wp-content/uploads/2020/01/dpo-icon-3.png">
      &nbsp
-   <img align="center" alt="fe-Scrum" height="28" width="75" src="https://png2.cleanpng.com/sh/3efbcdc78b868b03ace79adfe8cff650/L0KzQYm3V8E6N5d2e5H0aYP2gLBuTfxwb5Cyi9V7dX2wcsPojvQufKNmfNd2YYLuPbF5h710a6N6hZ92YYP3dcO0VfI2OGo6ftg9Zki0RIm1V8E0OGU4T6k6NUO1QIGAWcM2O2M6T5D5bne=/kisspng-logo-scrum-brand-trademark-org-scrum-master-5b5095ff4f8148.7130437715320079353257.png">
+   <img align="center" alt="fe-Scrum" height="28" width="75" src="https://png2.cleanpng.com/sh/78b8d05e8b6f2b0029f715e040be468a/L0KzQYm3V8E6N5d2e5H0aYP2gLBuTfxwb5Cyi9V7dX2wcsPojvQufKNmfNd2YYLuPbF5h710a6N6hZ92YYP3dcO0VfI2OGo6ftg9Zki0RIm1V8E0OGU4T6k6NUO1QIGAWcM2O2M6T5D5bne=/kisspng-logo-scrum-brand-trademark-org-scrum-master-5b5095ff4f8148.7130437715320079353257.png">
      &nbsp
    <img align="center" alt="fe-Togaf" height="15" width="60" src="https://i1.wp.com/insights.thirdrepublic.com/wp-content/uploads/2018/09/togaf-enterprise-architecture.png?fit=827%2C179&amp;ssl=1">
 </div>
