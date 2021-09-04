@@ -29,13 +29,13 @@
      &nbsp
    <img align="center" alt="fe-Cobit" height="30" width="60" src="https://images.squarespace-cdn.com/content/v1/5db8294a364ff063a6c831b7/1622815429952-J7DHSPJ2O8UJ8ZFSSU8O/COBIT_logo_FINAL+%281%29.png">
      &nbsp
+   <img align="center" alt="fe-Scrum" height="24" width="55" src="https://banner2.cleanpng.com/20180816/ric/kisspng-scrum-project-management-agile-software-developmen-insight-fenway-group-5b7522c1b6d0b9.2001017515344032657488.jpg">
+     &nbsp
+   <img align="center" alt="fe-Togaf" height="15" width="60" src="https://i1.wp.com/insights.thirdrepublic.com/wp-content/uploads/2018/09/togaf-enterprise-architecture.png?fit=827%2C179&amp;ssl=1">
+     &nbsp
    <img img align="center" alt="fe-SAFe" height="35" width="35" src="https://kandra.pro/wp-content/uploads/2020/06/SAFe-logo-600x600.png">
      &nbsp
    <img align="center" alt="fe-DPO" height="28" width="28" src="https://secureservercdn.net/50.62.194.59/gm7.23f.myftpupload.com/wp-content/uploads/2020/01/dpo-icon-3.png">
-     &nbsp
-   <img align="center" alt="fe-Scrum" height="28" width="75" src="https://https://img2.gratispng.com/20180424/ktw/kisspng-scrum-agile-software-development-user-experience-d-highly-organized-5adef16191ad06.8949628015245602255967.jpg">
-     &nbsp
-   <img align="center" alt="fe-Togaf" height="15" width="60" src="https://i1.wp.com/insights.thirdrepublic.com/wp-content/uploads/2018/09/togaf-enterprise-architecture.png?fit=827%2C179&amp;ssl=1">
 </div>
   
  ##
